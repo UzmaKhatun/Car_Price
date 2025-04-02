@@ -2,11 +2,11 @@
 
 
 
-📌 Overview
+## 📌 Overview
 
 This is a machine learning-based web application that predicts the selling price of a car based on its attributes like brand, model, year, mileage, engine power, fuel type, and transmission. The app is built using Streamlit and deploys a pre-trained regression model for real-time predictions.
 
-✨ Features
+## ✨ Features
 
 ✅ Real-time car price prediction using ML
 
@@ -20,7 +20,7 @@ This is a machine learning-based web application that predicts the selling price
 
 ✅ Deployed on Streamlit Cloud
 
-🏗 Tech Stack
+## 🏗 Tech Stack
 Python 🐍
 
 Streamlit 🎨 (for the web app)
