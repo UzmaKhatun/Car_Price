@@ -9,10 +9,15 @@ This is a machine learning-based web application that predicts the selling price
 ✨ Features
 
 ✅ Real-time car price prediction using ML
+
 ✅ Interactive and user-friendly UI
+
 ✅ Encodes categorical data using target encoding
+
 ✅ Feature scaling applied for improved accuracy
+
 ✅ Fast and efficient, accessible from any device
+
 ✅ Deployed on Streamlit Cloud
 
 🏗 Tech Stack
